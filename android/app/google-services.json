@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "544838842896",
+    "firebase_url": "https://introduccion-5fbcb-default-rtdb.firebaseio.com",
+    "project_id": "introduccion-5fbcb",
+    "storage_bucket": "introduccion-5fbcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544838842896:android:40331c912d4a0a94022895",
+        "android_client_info": {
+          "package_name": "com.alexisvc.introapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADYSOV18BbBL3Re4E6_X0PDq34xjh3c5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
